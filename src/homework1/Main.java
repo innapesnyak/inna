@@ -1,7 +1,7 @@
 package homework1;
 
 public class Main {
-    public static void main(System.in){
-        System.out.println("Kek");
+    public static void main(String[] args) {
+       System.out.println("Input");
     }
 }
