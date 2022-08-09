@@ -1,7 +1,7 @@
 package home_work_1;
 
 import java.util.Scanner;
-public class Task2 {
+public class Task42 {
     public static void main (String [] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите числa: ");
@@ -20,11 +20,11 @@ public class Task2 {
             System.out.println("Средним является " + c);
         } else if (c>b && c<a) {
             System.out.println("Средним является " + c);
-         } else   {
+        } else   {
             System.out.println ("Нет среднего числа");
 
         }
     }
-    }
+}
 
 
